@@ -19,8 +19,8 @@
 #### 6. What is the most profitable category for each gender?
 
 ## 📈 Visualizations
-<img width="924" height="450" alt="3" src="https://github.com/user-attachments/assets/c9adb8fc-3007-4283-915a-b29ecfaf6f21" />
-<img width="924" height="450" alt="4" src="https://github.com/user-attachments/assets/646575ae-d9b2-46c5-8038-abe479f4c426" />
+<img width="924" height="450" alt="3" src="https://github.com/user-attachments/assets/a880e91e-17d8-44e6-b7a9-9b3d359c7d02" />
+<img width="924" height="450" alt="4" src="https://github.com/user-attachments/assets/51397b88-0ac7-480a-8cb0-0689dc0409c4" />
 
 ## 🔎 Key Insights
 
